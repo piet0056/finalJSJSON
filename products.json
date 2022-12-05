@@ -1,7 +1,7 @@
 {
-    "imageSources": {
-        "image1" : "images/img1.jpg",
-        "image2" : "images/img2.jpg",
-        "image3" : "images/img3.jpg"
-    }
+    "imageSources": [
+        "images/img1.jpg",
+        "images/img2.jpg",
+        "images/img3.jpg"
+    ]
 }
