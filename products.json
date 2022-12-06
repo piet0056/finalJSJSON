@@ -8,5 +8,10 @@
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt praesent semper feugiat nibh. Mattis rhoncus urna neque viverra.",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt praesent semper feugiat nibh. Mattis rhoncus urna neque viverra.",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt praesent semper feugiat nibh. Mattis rhoncus urna neque viverra."
+    ],
+    "teaPrices": [
+        "14.99",
+        "21.99",
+        "7.99"
     ]
 }
